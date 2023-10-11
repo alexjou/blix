@@ -9,6 +9,15 @@
   />
 </h1>
 
+<h1 align="center">
+<img
+    alt="blix"
+    src="./assets/blix-screen.png"
+    width=280
+    height=600    
+  />
+</h1>
+
 
 ### Download APK:
 
