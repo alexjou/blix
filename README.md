@@ -80,30 +80,27 @@ $ yarn start ou npm start
 <img
     alt="authentication"
     src="./assets/authentication.png"
-    width=400
-    height=200    
+    width=800
+    height=300    
   />
 </h1>
-![Althentication](./assets/authentication.png)
 
-
+- Banco de dados Firestorage
 <h1 align="center">
 <img
     alt="firestore"
     src="./assets/firestore.png"
-    width=400
-    height=200    
+    width=800
+    height=300    
   />
 </h1>
-![Firestore Database](./assets/firestore.png)
 
-
+- Storage para armazenamento de arquivos
 <h1 align="center">
 <img
     alt="storage"
     src="./assets/storage.png"
-    width=400
-    height=200    
+    width=800
+    height=300    
   />
 </h1>
-![Storage](./assets/storage.png)
